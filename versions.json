@@ -5,8 +5,13 @@
     "latest": true
   },
   {
+    "version": "v0.3.0",
+    "url": "/v0.3.0/",
+    "latest": true
+  },
+  {
     "version": "v0.2.2",
     "url": "/v0.2.2/",
-    "latest": true
+    "latest": false
   }
 ]
