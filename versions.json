@@ -5,9 +5,14 @@
     "latest": true
   },
   {
+    "version": "v0.4.2",
+    "url": "/v0.4.2/",
+    "latest": true
+  },
+  {
     "version": "v0.4.1",
     "url": "/v0.4.1/",
-    "latest": true
+    "latest": false
   },
   {
     "version": "v0.4.0",
